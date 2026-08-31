@@ -1,0 +1,4 @@
+# Runtime: standard library only (asyncio, sqlite3, dataclasses, enum, typing).
+# The two dependencies below are for the test suite only.
+pytest>=8.0
+pytest-asyncio>=0.23
